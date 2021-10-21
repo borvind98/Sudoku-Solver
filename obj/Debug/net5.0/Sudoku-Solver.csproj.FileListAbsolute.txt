@@ -1,0 +1,16 @@
+D:\Visual Studio code\C#\Sudoku-Solver\bin\Debug\net5.0\Sudoku-Solver.exe
+D:\Visual Studio code\C#\Sudoku-Solver\bin\Debug\net5.0\Sudoku-Solver.deps.json
+D:\Visual Studio code\C#\Sudoku-Solver\bin\Debug\net5.0\Sudoku-Solver.runtimeconfig.json
+D:\Visual Studio code\C#\Sudoku-Solver\bin\Debug\net5.0\Sudoku-Solver.runtimeconfig.dev.json
+D:\Visual Studio code\C#\Sudoku-Solver\bin\Debug\net5.0\Sudoku-Solver.dll
+D:\Visual Studio code\C#\Sudoku-Solver\bin\Debug\net5.0\ref\Sudoku-Solver.dll
+D:\Visual Studio code\C#\Sudoku-Solver\bin\Debug\net5.0\Sudoku-Solver.pdb
+D:\Visual Studio code\C#\Sudoku-Solver\obj\Debug\net5.0\Sudoku-Solver.csproj.AssemblyReference.cache
+D:\Visual Studio code\C#\Sudoku-Solver\obj\Debug\net5.0\Sudoku-Solver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio code\C#\Sudoku-Solver\obj\Debug\net5.0\Sudoku-Solver.AssemblyInfoInputs.cache
+D:\Visual Studio code\C#\Sudoku-Solver\obj\Debug\net5.0\Sudoku-Solver.AssemblyInfo.cs
+D:\Visual Studio code\C#\Sudoku-Solver\obj\Debug\net5.0\Sudoku-Solver.csproj.CoreCompileInputs.cache
+D:\Visual Studio code\C#\Sudoku-Solver\obj\Debug\net5.0\Sudoku-Solver.dll
+D:\Visual Studio code\C#\Sudoku-Solver\obj\Debug\net5.0\ref\Sudoku-Solver.dll
+D:\Visual Studio code\C#\Sudoku-Solver\obj\Debug\net5.0\Sudoku-Solver.pdb
+D:\Visual Studio code\C#\Sudoku-Solver\obj\Debug\net5.0\Sudoku-Solver.genruntimeconfig.cache

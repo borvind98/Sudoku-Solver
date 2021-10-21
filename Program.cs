@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace testApp
+namespace Sudoku_Solver
 {
     class Program
     {
@@ -391,3 +391,5 @@ namespace testApp
         }
     }
 }
+
+
